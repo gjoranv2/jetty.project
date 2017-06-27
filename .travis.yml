@@ -1,0 +1,10 @@
+language: java
+sudo: required
+
+#services:
+#  - docker
+
+#script: "docker/vespa-ci.sh"
+
+# skip install step and rely on script command instead
+#install: true
